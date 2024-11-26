@@ -1,5 +1,7 @@
 <b>
 
+file bai tap : https://github.com/td2210z/opp-java/tree/main/btjava
+
 Lớp phân số
 
 
